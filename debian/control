@@ -1,5 +1,5 @@
 Source: nagios-plugins-ceph
-Maintainer: Valery Tschopp <valery.tschopp@switch.ch>
+Maintainer: Tomas Herceg <tth@rfa.cz>
 Section: misc
 Priority: optional
 Standards-Version: 3.9.8
